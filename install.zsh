@@ -1,5 +1,3 @@
-read 0
-read 1
 cd ~
 mkdir .reverse_shell_mmob
 cd .reverse_shell_mmob
